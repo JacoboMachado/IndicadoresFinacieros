@@ -1,0 +1,6 @@
+module Pods_IndicadoresFinacieros_IndicadoresFinacierosTests {
+  umbrella header "Pods-IndicadoresFinacieros-IndicadoresFinacierosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
