@@ -2,7 +2,7 @@
  * API KEY de endpoint
  */
 
-const API_KEY = 'bf6b491ec46caf655a1204c927f559580679f4c4';
+const API_KEY = '';
 /**
  * List de Indicadores disponibles
  */
@@ -22,7 +22,7 @@ const INDICATORS_LIST = [
         unit: 'Pesos',
     },
 
-    // IPC y UTM devuelve code 200 pero error en la consulta
+    // IPC y UTM devuelve code 200 pero error en la consulta :/
     // TMC devuelve un json con una estructura diferente por lo que se tendria que desarrollar otro controler para el
 
 
